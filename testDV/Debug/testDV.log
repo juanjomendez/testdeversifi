@@ -1,0 +1,19 @@
+﻿  main.cpp
+  The contents of <optional> are available only with C++17 or later.
+C:\projects\testDV\testDV\DvfSimulator.h(29,18): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\set(23): message : see declaration of 'std'
+C:\projects\testDV\testDV\DvfSimulator.h(29,26): error C2143: syntax error: missing ';' before '<'
+C:\projects\testDV\testDV\DvfSimulator.h(29,26): error C2433: 'IDvfSimulator::optional': 'virtual' not permitted on data declarations
+C:\projects\testDV\testDV\DvfSimulator.h(29,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\projects\testDV\testDV\DvfSimulator.h(29,88): error C2238: unexpected token(s) preceding ';'
+C:\projects\testDV\testDV\DvfSimulator.h(110,18): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\set(23): message : see declaration of 'std'
+C:\projects\testDV\testDV\DvfSimulator.h(110,26): error C2143: syntax error: missing ';' before '<'
+C:\projects\testDV\testDV\DvfSimulator.h(110,26): error C2433: 'DvfSimulator::optional': 'virtual' not permitted on data declarations
+C:\projects\testDV\testDV\DvfSimulator.h(110,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\projects\testDV\testDV\DvfSimulator.h(111,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\projects\testDV\testDV\main.cpp(29,14): error C2039: 'PlaceOrder': is not a member of 'IDvfSimulator'
+C:\projects\testDV\testDV\DvfSimulator.h(15): message : see declaration of 'IDvfSimulator'
+C:\projects\testDV\testDV\main.cpp(41,14): error C2039: 'PlaceOrder': is not a member of 'IDvfSimulator'
+C:\projects\testDV\testDV\DvfSimulator.h(15): message : see declaration of 'IDvfSimulator'
+C:\projects\testDV\testDV\main.cpp(53,23): warning C4018: '<': signed/unsigned mismatch
